@@ -359,16 +359,6 @@ This document describes the various type of fields and their properties.
          <td align="left" style="height: 49px;"> </td>
          <td align="left" style="height: 49px;"> </td>
       </tr>
-      <tr style="height: 31px;">
-         <td align="left" style="height: 31px;"> </td>
-         <td align="left" style="height: 31px;"> </td>
-         <td align="left" style="height: 31px;"> </td>
-         <td align="left" style="height: 31px;"> </td>
-         <td align="left" style="height: 31px;"> </td>
-         <td align="left" style="height: 31px;"> </td>
-         <td align="left" style="height: 31px;"> </td>
-         <td align="left" style="height: 31px;"> </td>
-      </tr>
       <tr style="height: 157px;">
          <td align="left" style="height: 157px;">Selection</td>
          <td align="left" style="height: 157px;">Int</td>
@@ -378,16 +368,6 @@ This document describes the various type of fields and their properties.
          <td align="left" style="height: 157px;"> </td>
          <td align="left" style="height: 157px;"> </td>
          <td align="left" style="height: 157px;">The options in the dropdown should be taken from DB or Any other external source.</td>
-      </tr>
-      <tr style="height: 31px;">
-         <td align="left" style="height: 31px;"> </td>
-         <td align="left" style="height: 31px;"> </td>
-         <td align="left" style="height: 31px;"> </td>
-         <td align="left" style="height: 31px;"> </td>
-         <td align="left" style="height: 31px;"> </td>
-         <td align="left" style="height: 31px;"> </td>
-         <td align="left" style="height: 31px;"> </td>
-         <td align="left" style="height: 31px;"> </td>
       </tr>
       <tr style="height: 139px;">
          <td align="left" style="height: 139px;">DateOfBirth / Date of Joining etc....</td>
