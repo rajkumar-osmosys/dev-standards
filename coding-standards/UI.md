@@ -146,6 +146,8 @@ Proper field sizes are essential for comfortable data entry and good appearance 
 1. **Relevance:** Proper size for each field is important for a good user experience. An email with 50 characters shall have the field width to accommodate that size. Similarly, the field for Age can have a size that takes 3 characters. If we are  taking notes or comments, then that fields should reflect 
 2. **Uniformity:** All fields of the same type in a form / application shall have the same size. This is properly achieved when we follow a well designed CSS. The same proper sizing shall be followed even in grids.
 
+[![Picture4.jpg](https://soochna.osmosys.co/uploads/images/gallery/2016-11-Nov/scaled-840-0/Picture4.jpg)](https://soochna.osmosys.co/uploads/images/gallery/2016-11-Nov/Picture4.jpg)
+
 The above image shows three different column widths for the same data type (money) – such  things  shall  be  avoided,  unless explicitly asked by the client.
 
 ## Properties
